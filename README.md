@@ -1,16 +1,2 @@
-# seu
-# seu
-# seu
-# seu
-# AI
-# MNIST
-# opentimer
-# opentimer
-# ipentimer
-# opentimer
-# opentimer
-# opentimer1
-# opentimer1
-# tongguodong.github.io
-# tongguodong.github.io
-#tongguodong.github.io
+1、每周六固定上传每周工作情况和下周工作计划；
+2、有新的想法笔记和问题直接上传到github上面；
